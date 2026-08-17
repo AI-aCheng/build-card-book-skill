@@ -71,3 +71,7 @@ python3 scripts/check_card_book.py 我的卡片书.html
 ## 📄 许可
 
 MIT
+
+---
+
+📣 **更多信息可关注公众号：AI阿程Harness实录**
